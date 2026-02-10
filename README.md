@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddhartha-TheSidEffect/my-dsa-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhartha-TheSidEffect/my-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Siddhartha-TheSidEffect/my-dsa-journey/tree/master/0169-majority-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddhartha-TheSidEffect/my-dsa-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Siddhartha-TheSidEffect/my-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
